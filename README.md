@@ -26,7 +26,7 @@ The following are outside of the scope of this task:
 1. Complete your solution in TypeScript or C#.
 1. Support JSON as a request/response format.
 1. Use Git for version control.
-1. Hard-coding product data is fine for the purposes of the project, but think about organising your code so that replacing your hard-coded data with a database would be safe and straightforward. Feel free to use the sample data in
+1. Hard-coding data is fine for the purposes of the project, but think about organising your code so that replacing your hard-coded data with a database would be safe and straightforward. Feel free to use the sample data in the `data` directory.
 
 ## What we're looking for
 
