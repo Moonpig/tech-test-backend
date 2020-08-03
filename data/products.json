@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "leadTime": 1
+    "supplierId": 1
   },
   {
     "id": 2,
-    "leadTime": 2
+    "suppliedId": 1
   },
   {
     "id": 3,
-    "leadTime": 4
+    "supplierId": 2
   },
   {
     "id": 4,
-    "leadTime": 6
+    "supplierId": 3
   },
   {
     "id": 5,
-    "leadTime": 3
+    "supplierId": 3
   },
   {
     "id": 6,
-    "leadTime": 10
+    "supplierId": 4
   }
 ]
