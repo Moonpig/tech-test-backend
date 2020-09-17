@@ -23,7 +23,7 @@ The following are outside of the scope of this task:
 
 ## Technical requirements
 
-1. Complete your solution in TypeScript or C#.
+1. Complete your solution with Node.js or C#/.NET.
 1. Support JSON as a request/response format.
 1. Use Git for version control.
 1. Hard-coding data is fine for the purposes of the project, but think about organising your code so that replacing your hard-coded data with another datasource would be safe and straightforward. Feel free to use the sample data in the /data directory.
